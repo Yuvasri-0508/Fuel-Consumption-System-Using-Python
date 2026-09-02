@@ -1,0 +1,17 @@
+FUEL CONSUMPTION ANALYSIS REPORT
+========================================
+
+TOTAL TRIPS: 5
+
+MOST EFFICIENT VEHICLE
+Vehicle Number: TN01AB1234
+Mileage: 20.0 km/litre
+
+LEAST EFFICIENT VEHICLE
+Vehicle Number: TN01AB1234
+Mileage: 2.0 km/litre
+
+ABNORMAL CONSUMPTION TRIPS
+Vehicle TN01AB1234 - Mileage: 5.0 km/litre
+Vehicle TN01AB1234 - Mileage: 5.0 km/litre
+Vehicle TN01AB1234 - Mileage: 2.0 km/litre
